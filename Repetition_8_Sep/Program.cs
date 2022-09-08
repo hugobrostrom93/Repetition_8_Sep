@@ -32,3 +32,5 @@ Console.WriteLine($"Du har levt {days} dagar i ditt liv. WOW!");
 
 // Övning Tapetremsor 
 
+
+Console.WriteLine("hej hopp");
